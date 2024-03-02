@@ -1,0 +1,14 @@
+{
+  "name": "bulk-json-to-excel",
+  "version": "1.0.0",
+  "description": "With this module, millions of records can be exported to excel while using less heap memory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karnakar Munja",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  }
+}
